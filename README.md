@@ -1,16 +1,24 @@
-### Hi there 👋
+name: Renaldi Pranata
+located_in: Makassar, Indonesia
+current_job: Software Engineer - Full Stack Developer
+education:
+  [
+    "Self-Taught Developer",
+  ]
+company: WASDLabs
 
-<!--
-**codevjs/codevjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interests:
+  [
+    "Web Development",
+    "Mobile Development"
+    "Internet of Things",
+    "DevOps"
+  ]
+technical_background:
+  [
+    "Senior Fullstack Developer",
+    "Freelance - Fullstack Developer"
+  ]
+  
+currently_learning: ["Go Languange", "Typscript", "Vue", "React", "CI/CD", "RXJS"]
+hobbies: ["Coding"]
