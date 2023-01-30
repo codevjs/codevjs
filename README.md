@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Renaldi Pranata</h1>
 <h3 align="center">Experienced Web Developer with a demonstrated history of working in the information technology and services industry. Skilled in Vue, Typescript, Reactjs, React Native, Nodejs, and Internet of Things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codevjs&label=Profile%20views&color=0e75b6&style=flat" alt="codevjs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codevjs" alt="codevjs" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Clean Architecture**
 
