@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renaldi Pranata</h1>
-<h3 align="center">xperienced Web Developer with a demonstrated history of working in the information technology and services industry. Skilled in Vue, Typescript, Reactjs, React Native, Nodejs, and Internet of Things.</h3>
+<h3 align="center">Experienced Web Developer with a demonstrated history of working in the information technology and services industry. Skilled in Vue, Typescript, Reactjs, React Native, Nodejs, and Internet of Things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codevjs&label=Profile%20views&color=0e75b6&style=flat" alt="codevjs" /> </p>
 
